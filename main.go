@@ -1,7 +1,7 @@
 package main
 
 import (
-    "github.com/wojciechko/walletudo-backend/web"
+    "github.com/wojciechko/todo-list-backend/web"
 
     "log"
     "net/http"
